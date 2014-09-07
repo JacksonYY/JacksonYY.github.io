@@ -4,7 +4,7 @@
   <subtitle><![CDATA[一个永远不会停下脚步的追梦者]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-09-07T08:44:44.970Z</updated>
+  <updated>2014-09-07T09:03:58.482Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,130 +13,5 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[forth]]></title>
-    <link href="http://yoursite.com/2014/09/07/forth/"/>
-    <id>http://yoursite.com/2014/09/07/forth/</id>
-    <published>2014-09-07T08:08:40.000Z</published>
-    <updated>2014-09-07T08:17:10.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
-    
-    
-      <category term="yule" scheme="http://yoursite.com/tags/yule/"/>
-    
-      <category term="电影" scheme="http://yoursite.com/categories/%E7%94%B5%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[third]]></title>
-    <link href="http://yoursite.com/2014/09/07/third/"/>
-    <id>http://yoursite.com/2014/09/07/third/</id>
-    <published>2014-09-07T08:00:33.000Z</published>
-    <updated>2014-09-07T08:00:33.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
-    
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[second]]></title>
-    <link href="http://yoursite.com/2014/09/07/second/"/>
-    <id>http://yoursite.com/2014/09/07/second/</id>
-    <published>2014-09-07T07:56:59.000Z</published>
-    <updated>2014-09-07T07:56:59.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
-    
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[firstday]]></title>
-    <link href="http://yoursite.com/2014/09/07/firstday/"/>
-    <id>http://yoursite.com/2014/09/07/firstday/</id>
-    <published>2014-09-07T07:39:28.000Z</published>
-    <updated>2014-09-07T08:17:16.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="Thank_you_for_your_help">Thank you for your help</h1>
-<h2 id="I_buy_a_book-_It’s_very_nice">I buy a book. It’s very nice</h2>
-]]></content>
-    
-    
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
-    
-      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
-    
-      <category term="qq" scheme="http://yoursite.com/tags/qq/"/>
-    
-      <category term="书籍" scheme="http://yoursite.com/categories/%E4%B9%A6%E7%B1%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[test]]></title>
-    <link href="http://yoursite.com/2014/09/06/test/"/>
-    <id>http://yoursite.com/2014/09/06/test/</id>
-    <published>2014-09-06T06:18:09.000Z</published>
-    <updated>2014-09-06T06:23:17.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="fuck">fuck</h1>
-<p>====<br> fafg weagpqwng iqgeqgoequgjpqegq<br> gqeog; nquegq bpgeeqougqpgqpg<br> <a id="more"></a><br> fahl fgag ewapgqw<br> ghwoq;gn qwg qepgn</p>
-]]></content>
-    <summary type="html"><![CDATA[<h1 id="fuck">fuck</h1>
-<p>====<br> fafg weagpqwng iqgeqgoequgjpqegq<br> gqeog; nquegq bpgeeqougqpgqpg<br> ]]></summary>
-    
-      <category term="happy" scheme="http://yoursite.com/tags/happy/"/>
-    
-      <category term="java" scheme="http://yoursite.com/categories/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[myblog]]></title>
-    <link href="http://yoursite.com/2014/09/06/myblog/"/>
-    <id>http://yoursite.com/2014/09/06/myblog/</id>
-    <published>2014-09-06T05:57:42.000Z</published>
-    <updated>2014-09-06T06:01:12.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="Hello_Hexo">Hello Hexo</h1>
-<h3 id="Ｉlove_you">Ｉlove you</h3>
-<p><a id="more"></a><br>today I have a new friend<br>I am very happy</p>
-]]></content>
-    <summary type="html"><![CDATA[<h1 id="Hello_Hexo">Hello Hexo</h1>
-<h3 id="Ｉlove_you">Ｉlove you</h3>
-<p>]]></summary>
-    
-      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2014/09/06/hello-world/"/>
-    <id>http://yoursite.com/2014/09/06/hello-world/</id>
-    <published>2014-09-06T05:38:01.000Z</published>
-    <updated>2014-09-06T05:38:01.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    
-  </entry>
   
 </feed>
